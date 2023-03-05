@@ -2,6 +2,11 @@
 
 This repository contains a curated list of artificial-intelligence related summer schools all around the world :earth_americas:. 
 
+## Table of Contents
+- [:robot: ai-summer-schools :classical\_building:](#robot-ai-summer-schools-classical_building)
+  - [Table of Contents](#table-of-contents)
+  - [2023 AI Summer Schools](#2023-ai-summer-schools)
+
 ## 2023 AI Summer Schools
 
 | Summer School | Dates | Virtual | In-Person | Location | Link |
@@ -17,3 +22,4 @@ This repository contains a curated list of artificial-intelligence related summe
 | :norway: Nordic Probabilistic AI School | 12-16 Jun | :x: | :white_check_mark: | Trondheim, Norway | [probabilistic.ai](https://probabilistic.ai/) | 
 | :us: Princeton Machine Learning Theory Summer School | 26-30 Jun | :x: | :white_check_mark: | Princeton, NJ | [mlschool.princeton.edu](https://mlschool.princeton.edu/) | 
 | :uk: Imperial College Machine Learning & Applied Statistics Summer School | 3-21 Jul | :x: | :white_check_mark: | London, GB | [imperial.ac.uk](https://www.imperial.ac.uk/business-school/programmes/summer-school/courses/machine-learning-and-applied-statistics/) | 
+| :it: Applied Bayesian Statistics Summer School (Bayesian Causal Inference) | 12-16 Jun | :x: | :white_check_mark: | Firenze, Italy | [mi.imati.cnr.it](http://www.mi.imati.cnr.it/conferences/abs23/) | 
