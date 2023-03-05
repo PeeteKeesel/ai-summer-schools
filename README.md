@@ -23,3 +23,10 @@ This repository contains a curated list of artificial-intelligence related summe
 | :us: Princeton Machine Learning Theory Summer School | 26-30 Jun | :x: | :white_check_mark: | Princeton, NJ | [mlschool.princeton.edu](https://mlschool.princeton.edu/) | 
 | :uk: Imperial College Machine Learning & Applied Statistics Summer School | 3-21 Jul | :x: | :white_check_mark: | London, GB | [imperial.ac.uk](https://www.imperial.ac.uk/business-school/programmes/summer-school/courses/machine-learning-and-applied-statistics/) | 
 | :it: Applied Bayesian Statistics Summer School (Bayesian Causal Inference) | 12-16 Jun | :x: | :white_check_mark: | Firenze, Italy | [mi.imati.cnr.it](http://www.mi.imati.cnr.it/conferences/abs23/) | 
+| :it: International Computer Vision Summer School | 9-15 Jul | :x: | :white_check_mark: | Sicily, Italy | [iplab.dmi.unict](https://iplab.dmi.unict.it/icvss2023/) |
+| :austria: ETH Zürich Machine learning summer school in healthcare and biosciences | 2-9 Jul | :x: | :white_check_mark: | Zürich, Switzerland | [bumblekite.co](https://www.bumblekite.co/summer-school) |
+
+<u>Not yet confirmed for 2023</u>:
+
+- [eXplainable AI Summer School (Delft, NL)](https://xaiss.eu/)
+- [Gaussian Process Summer School](https://gpss.cc/)
